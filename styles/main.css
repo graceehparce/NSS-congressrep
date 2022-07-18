@@ -1,0 +1,76 @@
+body {
+    background-image: url("https://teva.contentdm.oclc.org/digital/api/singleitem/image/p15138coll23/10038/default.jpg")
+}
+
+.pageHeader {
+    font-family: 'Akshar', sans-serif;
+    text-align: center;
+    background-color: bisque;
+    padding: 10px;
+    border: 10px dotted teal;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 30px;
+}
+
+.name {
+    font-family: 'Akshar', sans-serif;
+    background-color: bisque;
+    padding: 5px;
+    border: 5px solid teal;
+    font-size: large;
+    font-weight: bold;
+    margin: 3px 60px 3px 3px;
+
+}
+
+.mainComponent1 {
+    background-color: bisque;
+    padding: 5px;
+    border: 5px dotted teal;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1000px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+.elements {
+    font-family: 'Akshar', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.mainComponent2 {
+    background-color: bisque;
+    padding: 5px;
+    border: 5px dotted teal;
+    align-items: center;
+    justify-content: center;
+    margin-right: 700px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+
+.subHeading {
+    font-family: 'Akshar', sans-serif;
+    background-color: bisque;
+    padding: 5px;
+    border: 5px solid teal;
+    font-size: large;
+    font-weight: bold;
+    margin: 3px 350px 3px 3px;
+}
+
+.subHeading2 {
+    font-family: 'Akshar', sans-serif;
+    background-color: bisque;
+    padding: 5px;
+    border: 5px solid teal;
+    font-size: large;
+    font-weight: bold;
+    margin: 3px 280px 3px 3px;
+}
